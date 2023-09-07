@@ -1,18 +1,30 @@
 # clima_app
 
-Clima ☁
-Goal
+## Clima ☁
+
+### Goal
 Learnt about asynchronous programming in Dart. We'll look at how to carry out time consuming tasks such as getting device location and networking to get data from the internet.
 
-What I learnt:
-How to use Dart to perform asynchronous tasks.
-Understand async and await.
-Learn about Futures and how to work with them.
-How to network with the Dart http package.
-What APIs are and how to use them to get data from the internet.
-What JSONs are and how to parse them using the Dart convert package.
-How to pass data forwards and backwards between screens using the Navigator.
-How to handle exceptions in Dart using try/catch/throw.
-Learn about the lifecycle of Stateful Widgets and how to override them.
-How to use the Geolocator package to get live location data for both iOS and Android.
-How to use the TextField Widget to take user input.
+### What I learnt:
+
+1. How to use Dart to perform asynchronous tasks.
+
+2. Understand async and await.
+
+3. Learn about Futures and how to work with them.
+
+4. How to network with the Dart http package.
+
+5. What APIs are and how to use them to get data from the internet.
+
+6. What JSONs are and how to parse them using the Dart convert package.
+
+7. How to pass data forwards and backwards between screens using the Navigator.
+
+8. How to handle exceptions in Dart using try/catch/throw.
+
+9. Learn about the lifecycle of Stateful Widgets and how to override them.
+
+10. How to use the Geolocator package to get live location data for both iOS and Android.
+
+11. How to use the TextField Widget to take user input.
